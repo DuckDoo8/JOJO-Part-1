@@ -1,11 +1,20 @@
 body {
   background-color: black;
   color: aliceblue;
+  border: 2px;
+  border-color: aliceblue;
   font-family: 'Minecraft', sans-serif;
   display: flex ;
   justify-content: baseline;
   align-items: center;
-  height: 700px ;
+  height: 900px ;
   margin: 0;
+  width: 500px;
 }
 
+button {
+ background-color: black;
+ border: 0cm;
+
+
+}
