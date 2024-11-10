@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  color: aliceblue;
+  font-family: 'Minecraft', sans-serif;
+  display: flex ;
+  justify-content: baseline;
+  align-items: center;
+  height: 700px ;
+  margin: 0;
+}
+
